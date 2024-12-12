@@ -1,11 +1,18 @@
 <div align="justify">
-In highly populated countries like India, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Marriages, canteens, restaurants, social and family get-togethers and functions expel out so much food. Food wastage is not only an indication of hunger or pollution, but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is an internet-based android application that basically aims at charity through donations.
 
-The proposed application shall reduce food wastage and also fulfill other requirements like clothes, books, utensils, etc. of needy organizations and peoples. 
+---
 
-As mentioned above in the description there is a lot of food wastage that occurs daily at restaurants and cafes. Instead of throwing away the same as trash (which usually is the scenario), it can be used to feed the homeless. Also, since the pickup is arranged for by the enterprise, the restaurants/cafes need not worry about it. Benefiters will be both the restaurants/cafés (reducing the carbon footprint and wastage), and the needy. 
+In densely populated countries like India, food wastage is a pressing issue. Streets, garbage bins, and landfills are filled with evidence of discarded food. Events such as weddings, gatherings, and functions, along with canteens and restaurants, contribute significantly to this problem. Food wastage not only highlights hunger and environmental pollution but also reflects deeper economic challenges. The rapid changes in lifestyle and the pursuit of higher living standards have led to the careless disposal of food, clothing, and other resources. 
 
-The ultimate objective of this project is to communicate that investments in food wastage reduction is the most logical step in the pursuit of sustainable production and consumption, including food security, climate change and other adverse environmental effects. Public awareness materials and a strategy will be developed to this effect.
+Instead of letting these items go to waste, they can be repurposed by donating to organizations such as orphanages and old age homes. To address this issue, an internet-based Android application is proposed to facilitate charity through donations. The application will aim to minimize food wastage and meet other needs, such as providing clothes, books, and utensils, to those in need.
+
+Every day, significant amounts of food are wasted at restaurants and cafés. Rather than discarding this food as trash, it can be redirected to feed the homeless. The proposed platform will arrange pickups, relieving restaurants and cafés of logistical concerns. This initiative benefits both the food establishments, by reducing their carbon footprint, and the needy, by addressing hunger.
+
+The primary objective of this project is to demonstrate that reducing food wastage is a crucial step toward sustainable production and consumption. It aligns with goals related to food security, combating climate change, and mitigating other environmental challenges. Public awareness campaigns and strategic plans will be developed to support this cause. 
+
+--- 
+
+Let me know if you'd like further refinements!
 </div>
 
 Flowchart of the working of the application:
